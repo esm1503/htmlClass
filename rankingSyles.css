@@ -1,0 +1,12 @@
+/*#container {*/
+    /*margin: 0, auto;*/
+
+/*}*/
+
+.form {
+    height: 500px;
+    width: 500px;
+    background-color: coral;
+    border-radius: 0 5px 5px 5px;
+    position: relative;
+}
